@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         double hajs = 0;
-        double proc = 1.024;
+        double proc = 1024;
         double wynik = 0;
         int rok = 0;
         int i = 0;
