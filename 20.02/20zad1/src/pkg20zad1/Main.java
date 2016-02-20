@@ -9,7 +9,7 @@ import java.util.Random;
 
 public class Main {
 
-    static int[][] tablica = new int[50][50];
+    static int[][] tablica = new int[5][5];
 
     public static void main(String[] args) {
         
